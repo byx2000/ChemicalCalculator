@@ -1,0 +1,1 @@
+Double click "bin\Release\»¯Ñ§¼ÆËãÆ÷.exe" to run the program.

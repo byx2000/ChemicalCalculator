@@ -1,0 +1,301 @@
+# depslib dependency file v1.0
+1454680241 source:h:\codeblocks\化学计算器\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	"BottomDlgProc.h"
+
+1454821349 h:\codeblocks\化学计算器\resource.h
+
+1454799348 source:h:\codeblocks\化学计算器\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1454680770 source:h:\codeblocks\化学计算器\bottomdlgproc.cpp
+	<windows.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+
+1454653354 h:\codeblocks\化学计算器\bottomdlgproc.h
+	<windows.h>
+
+1454799374 source:h:\codeblocks\化学计算器\mainpaneldlgproc.cpp
+	<windows.h>
+	"resource.h"
+	"GetMrDlgProc.h"
+	"EqualExpDlgProc.h"
+	"HelpDlgProc.h"
+	"AboutDlgProc.h"
+
+1454653769 h:\codeblocks\化学计算器\mainpaneldlgproc.h
+	<windows.h>
+
+1454818876 source:h:\codeblocks\化学计算器\getmrdlgproc.cpp
+	<windows.h>
+	<stdio.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+	"chemistry.h"
+
+1454655208 h:\codeblocks\化学计算器\getmrdlgproc.h
+	<windows.h>
+
+1454677780 h:\codeblocks\化学计算器\switchwnd.h
+	<windows.h>
+
+1454677921 source:h:\codeblocks\化学计算器\switchwnd.cpp
+	<windows.h>
+	"resource.h"
+
+1454818948 source:h:\codeblocks\化学计算器\equalexpdlgproc.cpp
+	<windows.h>
+	<stdio.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+	"chemistry.h"
+
+1454728934 h:\codeblocks\化学计算器\equalexpdlgproc.h
+	<windows.h>
+
+1454818991 source:h:\codeblocks\化学计算器\helpdlgproc.cpp
+	<windows.h>
+	<string.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+
+1454730044 h:\codeblocks\化学计算器\helpdlgproc.h
+	<windows.h>
+
+1454819018 source:h:\codeblocks\化学计算器\aboutdlgproc.cpp
+	<windows.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+
+1454730493 h:\codeblocks\化学计算器\aboutdlgproc.h
+	<windows.h>
+
+1454741221 source:h:\codeblocks\化学计算器\chemistry.cpp
+	<string.h>
+	<malloc.h>
+	"def.h"
+	"mem.h"
+	"equ.h"
+
+1450592834 source:h:\codeblocks\化学计算器\equ.cpp
+	"equ.h"
+
+1450592830 h:\codeblocks\化学计算器\equ.h
+	<stdio.h>
+	<malloc.h>
+	"mem.h"
+
+1450592864 h:\codeblocks\化学计算器\mem.h
+	<malloc.h>
+
+1450592866 source:h:\codeblocks\化学计算器\mem.cpp
+	"mem.h"
+
+1454734878 h:\codeblocks\化学计算器\def.h
+
+1454741113 h:\codeblocks\化学计算器\chemistry.h
+	"def.h"
+
+1454735427 source:h:\codeblocks\化学计算器\def.cpp
+
+1454819018 source:e:\programs\有趣的小程序_2016\化学计算器\aboutdlgproc.cpp
+	<windows.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+
+1454821349 e:\programs\有趣的小程序_2016\化学计算器\resource.h
+
+1454653769 e:\programs\有趣的小程序_2016\化学计算器\mainpaneldlgproc.h
+	<windows.h>
+
+1454680770 source:e:\programs\有趣的小程序_2016\化学计算器\bottomdlgproc.cpp
+	<windows.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+
+1454741221 source:e:\programs\有趣的小程序_2016\化学计算器\chemistry.cpp
+	<string.h>
+	<malloc.h>
+	"def.h"
+	"mem.h"
+	"equ.h"
+
+1454734878 e:\programs\有趣的小程序_2016\化学计算器\def.h
+
+1450592864 e:\programs\有趣的小程序_2016\化学计算器\mem.h
+	<malloc.h>
+
+1450592830 e:\programs\有趣的小程序_2016\化学计算器\equ.h
+	<stdio.h>
+	<malloc.h>
+	"mem.h"
+
+1450592834 source:e:\programs\有趣的小程序_2016\化学计算器\equ.cpp
+	"equ.h"
+
+1454818948 source:e:\programs\有趣的小程序_2016\化学计算器\equalexpdlgproc.cpp
+	<windows.h>
+	<stdio.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+	"chemistry.h"
+
+1454741113 e:\programs\有趣的小程序_2016\化学计算器\chemistry.h
+	"def.h"
+
+1454818876 source:e:\programs\有趣的小程序_2016\化学计算器\getmrdlgproc.cpp
+	<windows.h>
+	<stdio.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+	"chemistry.h"
+
+1454821794 source:e:\programs\有趣的小程序_2016\化学计算器\helpdlgproc.cpp
+	<windows.h>
+	<string.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+
+1454680241 source:e:\programs\有趣的小程序_2016\化学计算器\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	"BottomDlgProc.h"
+
+1454653354 e:\programs\有趣的小程序_2016\化学计算器\bottomdlgproc.h
+	<windows.h>
+
+1454799374 source:e:\programs\有趣的小程序_2016\化学计算器\mainpaneldlgproc.cpp
+	<windows.h>
+	"resource.h"
+	"GetMrDlgProc.h"
+	"EqualExpDlgProc.h"
+	"HelpDlgProc.h"
+	"AboutDlgProc.h"
+
+1454655208 e:\programs\有趣的小程序_2016\化学计算器\getmrdlgproc.h
+	<windows.h>
+
+1454728934 e:\programs\有趣的小程序_2016\化学计算器\equalexpdlgproc.h
+	<windows.h>
+
+1454730044 e:\programs\有趣的小程序_2016\化学计算器\helpdlgproc.h
+	<windows.h>
+
+1454730493 e:\programs\有趣的小程序_2016\化学计算器\aboutdlgproc.h
+	<windows.h>
+
+1450592866 source:e:\programs\有趣的小程序_2016\化学计算器\mem.cpp
+	"mem.h"
+
+1454821349 source:e:\programs\有趣的小程序_2016\化学计算器\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1454819018 source:c:\users\byx\desktop\化学计算器\aboutdlgproc.cpp
+	<windows.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+
+1534984050 c:\users\byx\desktop\化学计算器\resource.h
+
+1454653769 c:\users\byx\desktop\化学计算器\mainpaneldlgproc.h
+	<windows.h>
+
+1454680770 source:c:\users\byx\desktop\化学计算器\bottomdlgproc.cpp
+	<windows.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+
+1454741221 source:c:\users\byx\desktop\化学计算器\chemistry.cpp
+	<string.h>
+	<malloc.h>
+	"def.h"
+	"mem.h"
+	"equ.h"
+
+1454734878 c:\users\byx\desktop\化学计算器\def.h
+
+1450592864 c:\users\byx\desktop\化学计算器\mem.h
+	<malloc.h>
+
+1450592830 c:\users\byx\desktop\化学计算器\equ.h
+	<stdio.h>
+	<malloc.h>
+	"mem.h"
+
+1450592834 source:c:\users\byx\desktop\化学计算器\equ.cpp
+	"equ.h"
+
+1534983952 source:c:\users\byx\desktop\化学计算器\equalexpdlgproc.cpp
+	<windows.h>
+	<stdio.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+	"chemistry.h"
+
+1454741113 c:\users\byx\desktop\化学计算器\chemistry.h
+	"def.h"
+
+1534983997 source:c:\users\byx\desktop\化学计算器\getmrdlgproc.cpp
+	<windows.h>
+	<stdio.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+	"chemistry.h"
+
+1534984196 source:c:\users\byx\desktop\化学计算器\helpdlgproc.cpp
+	<windows.h>
+	<string.h>
+	"resource.h"
+	"MainPanelDlgProc.h"
+
+1454680241 source:c:\users\byx\desktop\化学计算器\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	"BottomDlgProc.h"
+
+1454653354 c:\users\byx\desktop\化学计算器\bottomdlgproc.h
+	<windows.h>
+
+1454799374 source:c:\users\byx\desktop\化学计算器\mainpaneldlgproc.cpp
+	<windows.h>
+	"resource.h"
+	"GetMrDlgProc.h"
+	"EqualExpDlgProc.h"
+	"HelpDlgProc.h"
+	"AboutDlgProc.h"
+
+1454655208 c:\users\byx\desktop\化学计算器\getmrdlgproc.h
+	<windows.h>
+
+1454728934 c:\users\byx\desktop\化学计算器\equalexpdlgproc.h
+	<windows.h>
+
+1454730044 c:\users\byx\desktop\化学计算器\helpdlgproc.h
+	<windows.h>
+
+1454730493 c:\users\byx\desktop\化学计算器\aboutdlgproc.h
+	<windows.h>
+
+1450592866 source:c:\users\byx\desktop\化学计算器\mem.cpp
+	"mem.h"
+
+1534984050 source:c:\users\byx\desktop\化学计算器\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
